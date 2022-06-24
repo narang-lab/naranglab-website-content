@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on NarangLab</title>
+    <link>https://narang-lab.github.io/publications/</link>
+    <description>Recent content in Publications on NarangLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://narang-lab.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imaging phonon-mediated hydrodynamic flow in WTe2</title>
+      <link>https://narang-lab.github.io/publications/nat-phys-17-1216-1220-2021/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://narang-lab.github.io/publications/nat-phys-17-1216-1220-2021/</guid>
+      <description>Uri Vool⁺, Assaf Hamo⁺, &lt;strong&gt;Georgios Varnavides⁺&lt;/strong&gt;, Yaxian Wang⁺, Tony X. Zhou, Nitesh Kumar, Yuliya Dovzhenko, Ziwei Qiu, Christina A. Garcia, Andrew T. Pierce, Johannes Gooth, Polina Anikeeva, Claudia Felser, Prineha Narang, Amir Yacoby</description>
+    </item>
+    
+  </channel>
+</rss>

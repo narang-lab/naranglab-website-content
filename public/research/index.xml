@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Topics on NarangLab</title>
+    <link>https://narang-lab.github.io/research/</link>
+    <description>Recent content in Research Topics on NarangLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://narang-lab.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excited State Dynamics and Open Quantum Systems</title>
+      <link>https://narang-lab.github.io/research/excited-state-dynamics/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://narang-lab.github.io/research/excited-state-dynamics/</guid>
+      <description>Challenge and Opportunity # Excited-state nanophotonics presents a critical challenge and opportunity as it involves competing degrees of freedom and constraints with coupled electrons, photons, and atomic structures.</description>
+    </item>
+    
+    <item>
+      <title>Interactions with Molecules</title>
+      <link>https://narang-lab.github.io/research/interactions-with-molecules/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://narang-lab.github.io/research/interactions-with-molecules/</guid>
+      <description>Quantum Nature of Light # Chemical reactions are ubiquitous and play a critical role in everyday life.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Information Science</title>
+      <link>https://narang-lab.github.io/research/quantum-information-science/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://narang-lab.github.io/research/quantum-information-science/</guid>
+      <description>Our work in the quantum information subfield follows the integrated approach to quantum science embodied in the NarangLab.</description>
+    </item>
+    
+  </channel>
+</rss>

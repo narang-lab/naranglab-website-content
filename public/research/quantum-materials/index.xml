@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Materials on NarangLab</title>
+    <link>https://narang-lab.github.io/research/quantum-materials/</link>
+    <description>Recent content in Quantum Materials on NarangLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://narang-lab.github.io/research/quantum-materials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solid-State Spin Qubits</title>
+      <link>https://narang-lab.github.io/research/quantum-materials/solid-state-spin-qubits/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://narang-lab.github.io/research/quantum-materials/solid-state-spin-qubits/</guid>
+      <description>We have an active effort on how to model quantum defects in solids (&amp;ldquo;artificial atoms in solids&amp;rdquo;) such that we can guide the development of next-generation scalable quantum systems.</description>
+    </item>
+    
+    <item>
+      <title>Topological Materials Science</title>
+      <link>https://narang-lab.github.io/research/quantum-materials/topological-materials-science/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://narang-lab.github.io/research/quantum-materials/topological-materials-science/</guid>
+      <description>Topological materials science has grown as a field of research within the last decade and it was recently reported that more than a quarter of all materials have topological features.</description>
+    </item>
+    
+  </channel>
+</rss>
