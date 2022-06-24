@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
    name = "Narang Lab"
-   image = "img/author.png"
+   image = "img/logo.png"
    headline = "Materials Theory at UCLA"
    #bio = "A little bit about you"
    links = [

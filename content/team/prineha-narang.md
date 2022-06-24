@@ -2,7 +2,7 @@
 title: "Prof. Prineha Narang"
 showAuthor: false
 sharingLinks: false
-showBreadcrumbs: false
+showBreadcrumbs: true
 showDate: false
 showEdit: false
 showPagination: false

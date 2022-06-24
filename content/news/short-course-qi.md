@@ -7,7 +7,7 @@ slug: "short-course-qi"
 tags: []
 showDateUpdated: true
 showAuthor: false
-showBreadcrumbs: false
+showBreadcrumbs: true
 showDate: true
 showReadingTime: true
 showEdit: false

@@ -24,12 +24,12 @@ showScrollToTop = true
   showRecent = false
 
 [article]
-  showDate = true
-  showDateUpdated = true
+  showDate = false
+  showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
+  showEdit = false
   editURL = "https://github.com/narang-lab/naranglab-website-content"
   editAppendPath = true
   showHeadingAnchors = true
@@ -40,12 +40,11 @@ showScrollToTop = true
   showTaxonomies = false
   showWordCount = false
   sharingLinks = ["twitter", "linkedin", "email"]
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = true
   showSummary = false
-  showTableOfContents = true
+  showTableOfContents = false
   groupByYear = false
 
 [sitemap]

@@ -3,7 +3,7 @@
 title: "Dr. Georgios Varnavides"
 showAuthor: false
 sharingLinks: false
-showBreadcrumbs: false
+showBreadcrumbs: true
 showDate: false
 showEdit: false
 showPagination: false
