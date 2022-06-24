@@ -7,6 +7,8 @@ description: "Interactions with Molecules"
 slug: "interactions-with-molecules"
 tags: []
 showDateUpdated: true
+showTableOfContents: true
+
 ---
 
 ![Interactions With Molecules Banner](img/graphics_interaction-molecules-banner.png)

@@ -7,6 +7,8 @@ description: "Quantum Materials"
 slug: "quantum-materials"
 tags: []
 showDateUpdated: true
+showTableOfContents: true
+
 ---
 
 ![Quantum Materials Banner](img/graphics_quantum-materials-banner.png)

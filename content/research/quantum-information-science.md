@@ -7,6 +7,8 @@ description: "Quantum Information Science"
 slug: "quantum-information-science"
 tags: []
 showDateUpdated: true
+showTableOfContents: true
+
 ---
 
 ![Quantum Information Science Banner](img/graphics_quantum-information-science_banner.png)

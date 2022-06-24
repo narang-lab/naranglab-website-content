@@ -7,6 +7,8 @@ description: "Excited State Dynamics"
 slug: "excited-state-dynamics"
 tags: []
 showDateUpdated: true
+showTableOfContents: true
+
 ---
 
 ![Excited State Dynamics Banner](img/graphics_excited-state-banner.png)

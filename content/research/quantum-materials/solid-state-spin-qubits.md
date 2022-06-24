@@ -7,6 +7,8 @@ description: "Solid-State Spin Qubits"
 slug: "solid-state-spin-qubits"
 tags: []
 showDateUpdated: true
+showTableOfContents: true
+
 ---
 
 We have an active effort on how to model quantum defects in solids ("artificial atoms in solids") such that we can guide the development of next-generation scalable quantum systems. Through ab initio calculations and new theoretical methods, we are working towards artificial atoms with desired quantum properties that advance artificial quantum coherent systems. 
