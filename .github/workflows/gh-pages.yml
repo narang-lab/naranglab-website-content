@@ -30,4 +30,5 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: narang-lab/narang-lab.github.io
           publish_dir: ./public
+          cname: naranglab.chem.ucla.edu
           
